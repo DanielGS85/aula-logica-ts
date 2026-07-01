@@ -1,0 +1,21 @@
+# Dependências
+node_modules/
+
+# JavaScript gerado pelo tsc (fica ao lado dos .ts, mas não é versionado)
+listas/**/*.js
+listas/**/*.js.map
+
+# Logs
+*.log
+npm-debug.log*
+
+# Sistema operacional
+.DS_Store
+
+# Variáveis de ambiente
+.env
+.env.local
+
+# Editores
+.vscode/
+.idea/
